@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt #displays images
 #Step 1: Load image
 # array convert in -> ex: (500,700,3) ->rows (height), columns (width), channel (RGB)
 
-image= imread(r"C:\Users\sakshi bute\Desktop\NumPy\Image.jpg")
+image= imread(r"C:\Users\sakshi bute\Desktop\NumPy\image2.png")
 
 #Every image is 3D array of pixel (height,width, channel)
 #channel=> 3 pixel (red,green,blue)
